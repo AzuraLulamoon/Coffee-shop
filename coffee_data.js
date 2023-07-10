@@ -7,7 +7,6 @@
 // c. Objects and properties should have commas seperating them.
 // d. Connect the coffee_data.js file to the index.js file.
 
-modeule.exports = coffeeMenu
 const coffeeMenu = [
     {
         name: "cappuccino",
